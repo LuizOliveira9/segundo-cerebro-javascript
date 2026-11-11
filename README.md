@@ -44,13 +44,13 @@ O notebook apresentou variáveis como um dos recursos fundamentais da linguagem 
 
 **Fontes citadas na resposta:** documentação MDN, em tópicos de declarações, gramática/tipos e modo estrito. Os marcadores numerados de citações aparecem na resposta. A abertura de cada trecho citado ainda precisa ser validada diretamente no notebook.
 
-**Evidência:** captura real do NotebookLM enviada para o projeto. O arquivo `evidencias/notebook-fontes-citacoes-estudio.png` deve ser enviado ao repositório para disponibilizar a imagem.
+**Evidência:** captura real do NotebookLM enviada para o projeto. O arquivo [`image(20261111-222709).png`](image(20261111-222709).png) deve ser enviado ao repositório para disponibilizar a imagem.
 
 **Outras perguntas sugeridas** (não apresentadas como testes realizados): [PERGUNTAS_PARA_TESTAR.txt](PERGUNTAS_PARA_TESTAR.txt).
 
 ## Materiais de estudo
 
-O arquivo `materiais/JavaScript_Essencial.pdf` foi exportado do Estúdio e recebido para o projeto. Contém **15 páginas** com material visual sobre o ecossistema web, variáveis, tipos, operadores, controle de fluxo, arrays, objetos, funções e tratamento de erros. O PDF deve ser enviado ao repositório para disponibilizar o download.
+O arquivo [`JavaScript_Essencial.pdf`](JavaScript_Essencial.pdf) foi exportado do Estúdio e recebido para o projeto. Contém **15 páginas** com material visual sobre o ecossistema web, variáveis, tipos, operadores, controle de fluxo, arrays, objetos, funções e tratamento de erros. O PDF está disponível no repositório.
 
 O mapa mental **“JavaScript Guia”** aparece no Estúdio na captura de tela, mas ainda não foi disponibilizado como arquivo para envio.
 
@@ -68,7 +68,7 @@ Fontes de formatos diferentes podem ser consultadas em um único notebook para a
 - [x] Link compartilhado do notebook informado
 - [x] PDF de slides e captura enviados para organização do projeto
 - [x] Repositório GitHub público criado
-- [ ] Enviar o PDF e a captura ao repositório
+- [x] Enviar o PDF e a captura ao repositório
 - [ ] Confirmar que a diretriz foi aplicada nas configurações
 - [ ] Exportar e enviar o mapa mental
 - [ ] Abrir uma citação e conferir o trecho
@@ -85,6 +85,6 @@ segundo-cerebro-javascript/
 ├── materiais/
 │   ├── GUIA_DE_ESTUDOS_PREPARATORIO.md
 │   └── JavaScript_Essencial.pdf       # upload pendente
-└── evidencias/
-    └── notebook-fontes-citacoes-estudio.png  # upload pendente
+├── JavaScript_Essencial.pdf
+└── image(20261111-222709).png
 ```
