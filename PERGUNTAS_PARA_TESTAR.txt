@@ -1,0 +1,8 @@
+Pergunta já feita e documentada:
+1. O que são variáveis em JavaScript? Explique com exemplos e cite as fontes.
+
+Sugestões para testes adicionais (ainda não executados):
+2. Qual a diferença entre var, let e const? Cite as fontes.
+3. Como funcionam os laços for e while? Cite as fontes.
+4. Como funcionam os arrays em JavaScript? Cite as fontes.
+5. O que são funções e por que são importantes? Cite as fontes.
